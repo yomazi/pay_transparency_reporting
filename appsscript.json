@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "arcanite",
+        "libraryId": "1HW0t4zq1CMzqC6We7AN0SOWKvPiiqdUv7TC2Um0Jm_i63loWUILLYzgZ",
+        "version": "31",
+        "developmentMode": false
+      }
+    ]
+  }
+}
